@@ -4,7 +4,7 @@ import { source } from "@/lib/source";
 
 import type { BaseLayoutProps } from "fumadocs-ui/layouts/shared";
 
-export const baseOptions: BaseLayoutProps = {
+const baseOptions: BaseLayoutProps = {
   githubUrl: "https://github.com/agus-darmawan",
   nav: {
     title: "Sarasvati Docs",
